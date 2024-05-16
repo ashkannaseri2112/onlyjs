@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  margin: auto;
+  font-weight: bolder;
+  color: white;
+  padding: 1rem;
+  border: 1px red solid;
+  background-color: royalblue;
+}
+
+h1 {
+  text-transform: uppercase;
+  letter-spacing: 10px;
+}
+
+p {
+  letter-spacing: 2px;
+}
+
+.description {
+  max-width: 600px;
+  margin: auto;
+  color: chocolate;
+}
+
